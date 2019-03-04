@@ -1,5 +1,5 @@
 
-<b>Basic Codebook for the Project 
+<b>Basic Codebook for the Project</b>
 
 The datasets included in this repository are generated from the "GetCleanDataRScript.R" file which transform the original datasets that were originating from this site: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
