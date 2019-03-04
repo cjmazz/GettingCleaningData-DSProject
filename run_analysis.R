@@ -50,4 +50,4 @@ by_usr_act <- fullTidyDataSet %>% group_by(subjectid,activity)
 finalTidy <- summarize_all(by_usr_act,list(mean))
 write.csv(finalTidy, "./summaryData.csv", row.names=FALSE)
 
-#ship it!
+##ship it!
